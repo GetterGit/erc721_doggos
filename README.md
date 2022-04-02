@@ -1,0 +1,2 @@
+1. SimpleCollectible.sol is an NFT (ERC721) contract which can be used to arbitrary mint a shiba NFT
+2.  AdvancedCollectible.sol is an NFT (ERC721) contract where the tokenURI can be one of 3 different dogs, and the dogs are randomly selected when minting
